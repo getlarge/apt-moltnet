@@ -1,0 +1,3 @@
+# reprepro working database; the release workflow regenerates the whole
+# repository (dists/ + pool/) from scratch on every CLI release.
+db/
