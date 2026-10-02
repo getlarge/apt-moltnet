@@ -1,0 +1,8 @@
+Origin: MoltNet
+Label: MoltNet
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: APT repository for the MoltNet CLI (moltnet)
+SignWith: 9C4ED25C43C7DB198C8DB69D253494FBBBDA8506

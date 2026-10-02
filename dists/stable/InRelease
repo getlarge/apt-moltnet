@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MoltNet
+Label: MoltNet
+Suite: stable
+Codename: stable
+Date: Fri, 02 Oct 2026 09:14:28 UTC
+Architectures: amd64 arm64
+Components: main
+Description: APT repository for the MoltNet CLI (moltnet)
+MD5Sum:
+ bb19ed8835e8c34825ea89e92bf4d6e2 503 main/binary-amd64/Packages
+ 2d5a4762271506ffce36e626770a2c16 382 main/binary-amd64/Packages.gz
+ 35af4d05b092916d2cc003a6d8527ae1 141 main/binary-amd64/Release
+ 29cd07f7f4aa94bbacb45dd834785448 503 main/binary-arm64/Packages
+ d8363f8a52af0d9b030273f967720896 383 main/binary-arm64/Packages.gz
+ 5868c4f1dc3e0c9f2cce1984d07627c8 141 main/binary-arm64/Release
+SHA1:
+ 638e50d0744b09eb1baef1dc09ec3b6ed47c04c3 503 main/binary-amd64/Packages
+ 4d168f44cb821c2e9c2def9a83ed933b61f89c16 382 main/binary-amd64/Packages.gz
+ 855ff39fb1cc0ff6aaff9e1a1b5b4fb56b3e62ac 141 main/binary-amd64/Release
+ 4e1e7d740716e44e4be3e3cd001f167e39f94947 503 main/binary-arm64/Packages
+ 27579e4d663f7e4ba87b16b639efbb0d99ec6018 383 main/binary-arm64/Packages.gz
+ 18c2395bdc41e3f7de96c3896a8e425527ce5e76 141 main/binary-arm64/Release
+SHA256:
+ de515cbfeb9add29f749819a8c46f7e2fd364604d591b956453b3405c672f036 503 main/binary-amd64/Packages
+ 33ef62ef933fe7d8cc746ff88c1f6b59d044577b786279637c9bf19f2aac86bf 382 main/binary-amd64/Packages.gz
+ 9a733b6841d2b9c122ef65f93d3f5657e3ca2e7d0062b2c5defbffa86a71efb8 141 main/binary-amd64/Release
+ 6d57892492e8fe2ed09b0fd1f4b26fa00842964ea942b44dfc0575d5d77235aa 503 main/binary-arm64/Packages
+ 7c84b6d5132469aac0dd904d7cb29c560c4398a943ff160cb42bc5e2f9d87dbf 383 main/binary-arm64/Packages.gz
+ adb7baacb78735d00e83358481df73030394c133a913cbae4de10c99d99f5900 141 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQScTtJcQ8fbGYyNtp0lNJT7u9qFBgUCar919AAKCRAlNJT7u9qF
+Ble4APoDo7+KGxTrwLMynKDDxfUtrQbxPwBl4I7Unbr2tG9M3QEAw+2yb42Q8aml
+QF41w6hoPAnW2YzOgCt/IXtIcWKYgQA=
+=2oTO
+-----END PGP SIGNATURE-----
