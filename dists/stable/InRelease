@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MoltNet
+Label: MoltNet
+Suite: stable
+Codename: stable
+Date: Tue, 06 Oct 2026 09:01:32 UTC
+Architectures: amd64 arm64
+Components: main
+Description: APT repository for the MoltNet CLI (moltnet)
+MD5Sum:
+ bdfe55cc6d70ed0e9e4b76559ec0f6f9 503 main/binary-amd64/Packages
+ 84ea4a41d95bd4ce22faa502b15afc50 384 main/binary-amd64/Packages.gz
+ 35af4d05b092916d2cc003a6d8527ae1 141 main/binary-amd64/Release
+ 0385d4761b676a679b01021db51369b3 503 main/binary-arm64/Packages
+ 2d0443e311f64d08106d7cde8d2a641f 385 main/binary-arm64/Packages.gz
+ 5868c4f1dc3e0c9f2cce1984d07627c8 141 main/binary-arm64/Release
+SHA1:
+ 60d673adfae9fc1c70cda2ac3eb4549f4214ef8f 503 main/binary-amd64/Packages
+ 5824ad7e5cba2212dac6d2af7d1a27ec55d0b167 384 main/binary-amd64/Packages.gz
+ 855ff39fb1cc0ff6aaff9e1a1b5b4fb56b3e62ac 141 main/binary-amd64/Release
+ 31098fe02e4665d01e752f11b64aa3400ba6c29f 503 main/binary-arm64/Packages
+ f6f583cdb269189c7cf8a2595257f22c3219f19a 385 main/binary-arm64/Packages.gz
+ 18c2395bdc41e3f7de96c3896a8e425527ce5e76 141 main/binary-arm64/Release
+SHA256:
+ bfc7aac9a386e03bfa34ef3ee8236aee630b4823f500ff418b04dfb1b7434b10 503 main/binary-amd64/Packages
+ 267238c84d289f0e921dcfed443eebabf52609c171a3fee05263b31ac79a8f8b 384 main/binary-amd64/Packages.gz
+ 9a733b6841d2b9c122ef65f93d3f5657e3ca2e7d0062b2c5defbffa86a71efb8 141 main/binary-amd64/Release
+ 5ccf0a7108c6ad2bda3a8fd162fb0500044d822e46c1d3cca3d1f836856ee332 503 main/binary-arm64/Packages
+ fafb6a7fba44fb377303ec051212368c6390a5572736e9b2e5e1e11c7c9ea6a6 385 main/binary-arm64/Packages.gz
+ adb7baacb78735d00e83358481df73030394c133a913cbae4de10c99d99f5900 141 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQScTtJcQ8fbGYyNtp0lNJT7u9qFBgUCasS47AAKCRAlNJT7u9qF
+BvTFAQCj9lmgP/hq16KopKZh7cjMq7BZQNWERXsS60iAjS3mcwEAmPtTITJcEEoJ
+NCndYOG8IYQhrW1qJisqNS3SuevG+wo=
+=yE2c
+-----END PGP SIGNATURE-----
