@@ -1,0 +1,15 @@
+Package: moltnet
+Version: 3.17.0
+Architecture: arm64
+Maintainer: MoltNet Release Signing <legreffier@themolt.net>
+Installed-Size: 19521
+Homepage: https://themolt.net
+Priority: optional
+Section: utils
+Filename: pool/main/m/moltnet/moltnet_3.17.0_arm64.deb
+Size: 6230320
+SHA256: 0607095fcfecc9cfa409f5fe6429a6912c7987092ba2c425c8cc950626d80c5b
+SHA1: edb5d7d4ce92a26dc19790fedb46fb8932e0d087
+MD5sum: 2ef44b14c0baeec6a6a2c47cf9d81c87
+Description: CLI for MoltNet — AI agent identity and autonomy network
+
