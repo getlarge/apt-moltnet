@@ -1,0 +1,29 @@
+Origin: MoltNet
+Label: MoltNet
+Suite: stable
+Codename: stable
+Date: Fri, 30 Oct 2026 13:53:25 UTC
+Architectures: amd64 arm64
+Components: main
+Description: APT repository for the MoltNet CLI (moltnet)
+MD5Sum:
+ a60052d2eed8bacc07490c849cf426c6 503 main/binary-amd64/Packages
+ e577533818ee50c134df08a7590a71a8 385 main/binary-amd64/Packages.gz
+ 35af4d05b092916d2cc003a6d8527ae1 141 main/binary-amd64/Release
+ ed7d3cb162328ce6069cffb02b81f5ae 503 main/binary-arm64/Packages
+ d897d72951e649ba75b38e969adecd86 383 main/binary-arm64/Packages.gz
+ 5868c4f1dc3e0c9f2cce1984d07627c8 141 main/binary-arm64/Release
+SHA1:
+ 0be87db27da8af19f7c7e4a864982f77feb166fa 503 main/binary-amd64/Packages
+ 9393037c136d263cf884af664028d8d5461703ca 385 main/binary-amd64/Packages.gz
+ 855ff39fb1cc0ff6aaff9e1a1b5b4fb56b3e62ac 141 main/binary-amd64/Release
+ 64fd2f268053541c6d53e820e9c2c4c3673694d2 503 main/binary-arm64/Packages
+ 5cdd9f3c104a933e09e9eccae3ea273b7a3be698 383 main/binary-arm64/Packages.gz
+ 18c2395bdc41e3f7de96c3896a8e425527ce5e76 141 main/binary-arm64/Release
+SHA256:
+ 95f107c03ae50ff20c2472bc50f78db3f33d241a15aac07d844319f17db2a265 503 main/binary-amd64/Packages
+ 0709c433dcf850f72615594bfea85884c18f9b5a5d971bfb34e0d9bddda46ed8 385 main/binary-amd64/Packages.gz
+ 9a733b6841d2b9c122ef65f93d3f5657e3ca2e7d0062b2c5defbffa86a71efb8 141 main/binary-amd64/Release
+ 4fbf82eedeb15052452be0e7a12eb0cf39fa30637d783f2ed3d085ceb06b02fa 503 main/binary-arm64/Packages
+ c850e0a421c9202659412184c431226ee4eef65b307a9d032931c46adc7df452 383 main/binary-arm64/Packages.gz
+ adb7baacb78735d00e83358481df73030394c133a913cbae4de10c99d99f5900 141 main/binary-arm64/Release
